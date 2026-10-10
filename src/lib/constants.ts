@@ -28,7 +28,7 @@ export const LOGO = {
 
 export const HERO = {
   subtitle: "Together with our beloved families",
-  invitation: "request the honor of your presence at our Nikah.",
+  invitation: "request the honor of your presence at our Wedding.",
   ceremony: "Nikah Ceremony",
   closingLine: "Your presence and heartfelt duas will be our greatest blessing.",
 };
